@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kopiko</string>
+    <string name="deskripsi">Kopiko adalah kopi yang berasal dari biji kopi asli...</string>
+    <string name="promo">Beli 2 gratis 1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
